@@ -1,0 +1,184 @@
+2023-12-06 14:18:51 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:18:51 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:18:53 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:18:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:19:17 - [32minfo[39m: Visit https://observability.browserstack.com/builds/2hhbterp15u5lpqjqhmsvgampu6lkitywaatd8a8 to view build report, insights, and many more debugging information all at one place!
+
+2023-12-06 14:19:17 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:19:17 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:22:37 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:22:37 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:22:38 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:22:38 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:22:48 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:22:48 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:25:46 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:25:46 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:25:47 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:25:47 - [31merror[39m: Error in importing your playwright config:  slackLayout is not defined
+2023-12-06 14:28:07 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:28:07 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:28:09 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:28:09 - [31merror[39m: Error in importing your playwright config:  slackLayout is not defined
+2023-12-06 14:33:07 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:33:07 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:33:09 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:33:09 - [31merror[39m: Error in importing your playwright config:  slackLayout is not defined
+2023-12-06 14:37:24 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:37:24 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:37:25 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:37:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:37:28 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:37:28 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:38:10 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:38:10 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:38:11 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:38:11 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 14:39:52 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:39:52 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:39:53 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:39:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:39:55 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:39:56 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:40:44 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:40:44 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:40:46 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:40:46 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:40:47 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:40:48 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:41:18 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:41:18 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:41:20 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:41:20 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:41:25 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:41:26 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:43:15 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:43:15 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:43:17 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:43:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:43:18 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:43:19 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:44:34 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:44:34 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:44:36 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:44:36 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:44:38 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:44:39 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:44:48 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:44:48 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:44:49 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:44:49 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 14:45:59 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:45:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:46:01 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:46:01 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 14:48:11 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:48:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:48:13 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:48:13 - [31merror[39m: Error in importing your playwright config:  summaryResults is not defined
+2023-12-06 14:48:56 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:48:56 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:48:57 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:48:57 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 14:49:10 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:49:10 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:49:11 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:49:11 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 14:50:05 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:50:05 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:50:07 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:50:07 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:50:09 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:50:10 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:52:41 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:52:41 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:52:43 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:52:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:52:44 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:52:45 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:52:57 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:52:57 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:52:58 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:52:58 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:53:00 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:53:01 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:53:59 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:53:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:54:01 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:54:01 - [31merror[39m: Error in importing your playwright config:  /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js: Unexpected token (37:8)
+
+[0m [90m 35 |[39m                     [90m// },[39m[0m
+[0m [90m 36 |[39m                   [0m
+[0m[31m[1m>[22m[39m[90m 37 |[39m         }[0m
+[0m [90m    |[39m         [31m[1m^[22m[39m[0m
+[0m [90m 38 |[39m       }[33m,[39m[0m
+[0m [90m 39 |[39m     ][33m,[39m[0m
+[0m [90m 40 |[39m     [[32m"dot"[39m][33m,[39m [90m// other reporters[39m[0m
+2023-12-06 14:54:32 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:54:32 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:54:34 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:54:34 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:54:35 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:54:36 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 14:56:23 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:56:23 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:56:25 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:56:25 - [31merror[39m: Error in importing your playwright config:  /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js: Identifier 'config' has already been declared. (3:6)
+
+[0m [90m 1 |[39m [36mconst[39m { config[33m,[39m devices } [33m=[39m require([32m'@playwright/test'[39m)[33m;[39m[0m
+[0m [90m 2 |[39m [36mconst[39m { slackLayout } [33m=[39m require([32m'./slack'[39m)[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m 3 |[39m [36mconst[39m config [33m=[39m {[0m
+[0m [90m   |[39m       [31m[1m^[22m[39m[0m
+[0m [90m 4 |[39m   testDir[33m:[39m [32m'./tests'[39m[33m,[39m[0m
+[0m [90m 5 |[39m   testMatch[33m:[39m [32m'**/bstack_test*.js'[39m[33m,[39m[0m
+[0m [90m 6 |[39m[0m
+2023-12-06 14:56:58 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:56:58 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:57:00 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:57:00 - [31merror[39m: Error in importing your playwright config:  Assignment to constant variable.
+2023-12-06 14:57:59 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 14:57:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 14:58:00 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 14:58:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 14:58:02 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 14:58:02 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 15:37:50 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:37:50 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:37:52 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:37:52 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 15:38:22 - [32minfo[39m: Visit https://observability.browserstack.com/builds/pf0gmfctrtlaqrfe6zjnc26confvt5nlspsvhshy to view build report, insights, and many more debugging information all at one place!
+
+2023-12-06 15:38:22 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 15:38:23 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 15:38:48 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:38:48 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:38:50 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:38:50 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 15:38:51 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 15:38:52 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2023-12-06 15:39:12 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:39:12 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:39:14 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:39:14 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 15:40:11 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:40:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:40:13 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:40:13 - [31merror[39m: Error in importing your playwright config:  sl is not defined
+2023-12-06 15:41:21 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:41:21 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:41:23 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:41:23 - [31merror[39m: Error in importing your playwright config:  Cannot read properties of undefined (reading 'slackLayout')
+2023-12-06 15:41:49 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:41:49 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:41:51 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:41:51 - [31merror[39m: Error in importing your playwright config:  Cannot read properties of undefined (reading 'sl')
+2023-12-06 15:42:09 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 15:42:09 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 15:42:11 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 15:42:11 - [31merror[39m: Error in importing your playwright config:  Cannot read properties of undefined (reading 'slackLayout')
+2023-12-06 16:03:55 - [32minfo[39m: Reading configs from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/browserstack.yml
+2023-12-06 16:03:55 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-06 16:03:57 - [32minfo[39m: Getting your playwright config from /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright.config.js
+2023-12-06 16:03:57 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-12-06 16:03:59 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2023-12-06 16:04:00 - [32minfo[39m: Deleting /Users/manoj/Downloads/1044988/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
